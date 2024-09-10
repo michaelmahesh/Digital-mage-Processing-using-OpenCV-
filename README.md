@@ -1,1 +1,1 @@
-# Digital-mage-Processing-using-OpenCV-
+# Digital-Image-Processing-using-OpenCV-
